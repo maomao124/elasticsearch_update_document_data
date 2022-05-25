@@ -1,0 +1,12 @@
+2022-05-25 21:32:26.727  INFO 5848 --- [main] m.e.ElasticSearchTest                    : Starting ElasticSearchTest using Java 16.0.2 on mao with PID 5848 (started by mao in H:\程序\大三下期\elasticsearch更新文档数据)
+2022-05-25 21:32:26.728 DEBUG 5848 --- [main] m.e.ElasticSearchTest                    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 21:32:26.729  INFO 5848 --- [main] m.e.ElasticSearchTest                    : The following 1 profile is active: "dev"
+2022-05-25 21:32:28.292  INFO 5848 --- [main] m.e.ElasticSearchTest                    : Started ElasticSearchTest in 1.926 seconds (JVM running for 3.742)
+2022-05-25 21:34:58.782  INFO 15600 --- [main] m.e.ElasticSearchTest                    : Starting ElasticSearchTest using Java 16.0.2 on mao with PID 15600 (started by mao in H:\程序\大三下期\elasticsearch更新文档数据)
+2022-05-25 21:34:58.783 DEBUG 15600 --- [main] m.e.ElasticSearchTest                    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 21:34:58.783  INFO 15600 --- [main] m.e.ElasticSearchTest                    : The following 1 profile is active: "dev"
+2022-05-25 21:35:00.335  INFO 15600 --- [main] m.e.ElasticSearchTest                    : Started ElasticSearchTest in 1.892 seconds (JVM running for 3.398)
+2022-05-25 21:35:33.565  INFO 4532 --- [main] m.e.ElasticSearchTest                    : Starting ElasticSearchTest using Java 16.0.2 on mao with PID 4532 (started by mao in H:\程序\大三下期\elasticsearch更新文档数据)
+2022-05-25 21:35:33.566 DEBUG 4532 --- [main] m.e.ElasticSearchTest                    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 21:35:33.567  INFO 4532 --- [main] m.e.ElasticSearchTest                    : The following 1 profile is active: "dev"
+2022-05-25 21:35:35.057  INFO 4532 --- [main] m.e.ElasticSearchTest                    : Started ElasticSearchTest in 1.833 seconds (JVM running for 3.324)
